@@ -29,7 +29,7 @@ config/data.json
 # terraform files
 **/.terraform/*
 *.tfstate
-*.tfstate.*
+*.tfstate.
 *.tfvars
 
 **/import_and_unlock.py
